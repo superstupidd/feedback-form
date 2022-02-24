@@ -1,0 +1,87 @@
+.main {
+  border: 2px;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: rgb(52, 161, 235);
+  background-blend-mode: lighten;
+  width: 40%;
+  height: 800px;
+  box-shadow: -10px 10px 6px -3px rgba(0, 0, 0, 0.67);
+}
+
+.sign {
+  width: 40%;
+  height: 700px;
+  padding: 30px;
+  margin: auto;
+  margin-bottom: 220px;
+  margin-top: 8px;
+}
+.fsign {
+  margin: auto;
+}
+.ssign {
+  color: black;
+  padding: 20px;
+}
+.lable {
+  margin: auto;
+  color: black;
+  padding: 4px;
+}
+
+.for {
+  width: 200px;
+  height: 34px;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-radius: 4rem;
+  padding-left: 4px;
+  background-color: white;
+  color: black;
+}
+.butnn {
+  width: 80px;
+  height: 26px;
+  border: 2px solid grey;
+  color: white;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2.5rem;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.comment {
+  margin-top: 40px;
+  margin-left: -130px;
+}
+.comments {
+  margin-bottom: 10px;
+  color: white;
+}
+.btnn {
+  background-color: rgb(52, 161, 235);
+  color: white;
+  margin: 7px 35px;
+}
+.list {
+  margin-top: 130px;
+}
+.edit_btn {
+  text-decoration: none;
+  padding: 2px 5px;
+  background: #2e8b57;
+  color: white;
+  border-radius: 3px;
+}
+
+.del_btn {
+  text-decoration: none;
+  padding: 2px 5px;
+  color: white;
+  border-radius: 3px;
+  background: #800000;
+}
